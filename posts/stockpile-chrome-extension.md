@@ -1,13 +1,21 @@
 ---
-post_title: ストック素材のダウンロードを自動整理するChrome拡張機能「Stockpile」を作った
+post_title: 【自動整理】ストック素材のダウンロードを自動整理するChrome拡張機能「Stockpile」を作った
 post_status: draft
 post_excerpt: MotionElementsやAudioioからダウンロードした素材を自動でフォルダ整理するChrome拡張機能を開発しました。開発の背景や苦労した点をまとめます。
+featured_image: images/stockpile-eyecatch.png
 post_category:
   - 開発
+  - ツール
 tags:
   - Chrome拡張機能
   - JavaScript
   - 個人開発
+  - 自動化
+  - 効率化
+  - MotionElements
+  - Audiio
+  - ストック素材
+  - ダウンロード管理
 ---
 
 ## はじめに
