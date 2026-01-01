@@ -2,7 +2,7 @@
 title: "【もう忘れない】ギガファイル便の保存期間を自動設定するChrome拡張機能を作った"
 post_status: publish
 post_excerpt: "ギガファイル便の保存期間を毎回変更するのが面倒、うっかり短い期間で送ってしまう...そんな悩みを解決するChrome拡張機能「GigaFile Default Setter」を開発しました。無料で使えます。"
-featured_image: images/gigafile-default-setter-eyecatch.png
+featured_image: _images/gigafile-default-setter-eyecatch.png
 taxonomy:
   category:
     - 開発
